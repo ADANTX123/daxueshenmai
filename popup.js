@@ -1,4 +1,4 @@
-const dataURL = "https://github.com/ADANTX123/daxueshenmai.git/main/data.json"; // ← 你需要放 JSON 文件的公网链接
+const dataURL = "https://raw.githubusercontent.com/ADANTX123/daxueshenmai/refs/heads/main/data.json?token=GHSAT0AAAAAADKQTFUJLO75UCXLWMAENGW42HPHMJQ"; // ← 你需要放 JSON 文件的公网链接
 
 let allData = {};
 
