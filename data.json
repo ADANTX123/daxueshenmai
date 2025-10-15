@@ -1,0 +1,105 @@
+{
+  "subject": {
+    "A+": [
+      {"name": "北航", "url": "https://scse.buaa.edu.cn/"},
+      {"name": "浙大", "url": "http://www.cst.zju.edu.cn/"},
+      {"name": "国防科", "url": "http://www.nudt.edu.cn/xxgk/kdjj/"}
+    ],
+    "A": [
+      {"name": "北大", "url": "https://ss.pku.edu.cn/"},
+      {"name": "清华", "url": "http://www.se.tsinghua.edu.cn/"},
+      {"name": "华东师范", "url": "https://sist.ecnu.edu.cn/"},
+      {"name": "南京大学", "url": "https://cs.nju.edu.cn/"},
+      {"name": "武汉大学", "url": "https://cs.whu.edu.cn/"}
+    ],
+    "A-": [
+      {"name": "天津大学", "url": "http://sse.tju.edu.cn/"},
+      {"name": "东北大学", "url": "https://www.cse.neu.edu.cn/"},
+      {"name": "哈尔滨工业大学", "url": "https://cmse.hit.edu.cn/"},
+      {"name": "同济大学", "url": "https://sse.tongji.edu.cn/"},
+      {"name": "苏州大学", "url": "https://cs.suda.edu.cn/"},
+      {"name": "中国科学技术大学", "url": "https://ssoftware.ustc.edu.cn/"},
+      {"name": "四川大学", "url": "https://cs.scu.edu.cn/"}
+    ]
+  },
+  "province": {
+    "北京": [
+      {"name": "清华", "url": "https://yz.tsinghua.edu.cn/"},
+      {"name": "北大", "url": "https://admission.pku.edu.cn/"},
+      {"name": "人大", "url": "https://pgs.ruc.edu.cn/"},
+      {"name": "北航", "url": "https://yzb.buaa.edu.cn/"},
+      {"name": "北理", "url": "https://grd.bit.edu.cn/"},
+      {"name": "中农", "url": "https://yz.cau.edu.cn/"},
+      {"name": "北师范", "url": "https://yz.bnu.edu.cn/"},
+      {"name": "中央民族", "url": "https://grs.muc.edu.cn/"}
+    ],
+    "天津": [
+      {"name": "南开", "url": "https://yzb.nankai.edu.cn/"},
+      {"name": "天大", "url": "http://yzb.tju.edu.cn/"}
+    ],
+    "河北": [
+      {"name": "东秦", "url": "https://yzb.neu.edu.cn/"}
+    ],
+    "辽宁": [
+      {"name": "大工", "url": "https://gs.dlut.edu.cn/"},
+      {"name": "东北大", "url": "https://yz.neu.edu.cn/"}
+    ],
+    "吉林": [
+      {"name": "吉大", "url": "http://zsb.jlu.edu.cn/"}
+    ],
+    "黑龙江": [
+      {"name": "哈工大", "url": "https://yzb.hit.edu.cn/"}
+    ],
+    "上海": [
+      {"name": "上交", "url": "https://yzb.sjtu.edu.cn/"},
+      {"name": "复旦", "url": "https://www.gsao.fudan.edu.cn/"},
+      {"name": "同济", "url": "https://yz.tongji.edu.cn/"},
+      {"name": "华东师范", "url": "https://yjszs.ecnu.edu.cn/"}
+    ],
+    "江苏": [
+      {"name": "南大", "url": "https://yzb.nju.edu.cn/"},
+      {"name": "车大", "url": "https://yzb.seu.edu.cn/"}
+    ],
+    "浙江": [
+      {"name": "浙大", "url": "https://www.grs.zju.edu.cn/"}
+    ],
+    "安徽": [
+      {"name": "国科技", "url": "https://yz.ustc.edu.cn/"}
+    ],
+    "福建": [
+      {"name": "厦大", "url": "https://zs.xmu.edu.cn/"}
+    ],
+    "山东": [
+      {"name": "中海洋", "url": "https://yz.ouc.edu.cn/"},
+      {"name": "山大", "url": "https://www.yz.sdu.edu.cn/"}
+    ],
+    "湖北": [
+      {"name": "华中科技", "url": "https://gs.hust.edu.cn/"},
+      {"name": "武大", "url": "https://yz.whu.edu.cn/"}
+    ],
+    "湖南": [
+      {"name": "国防科", "url": "http://yjszs.nudt.edu.cn/"},
+      {"name": "中南", "url": "https://gra.csu.edu.cn/"},
+      {"name": "湖南", "url": "https://yz.hnu.edu.cn/"}
+    ],
+    "广东": [
+      {"name": "中山大学", "url": "https://graduate.sysu.edu.cn/"},
+      {"name": "华南理工", "url": "https://yz.scut.edu.cn/"}
+    ],
+    "重庆": [
+      {"name": "重大", "url": "https://yz.cqu.edu.cn/"}
+    ],
+    "四川": [
+      {"name": "川大", "url": "https://yz.scu.edu.cn/"},
+      {"name": "成电", "url": "https://yz.uestc.edu.cn/"}
+    ],
+    "陕西": [
+      {"name": "西安交大", "url": "https://yz.xjtu.edu.cn/"},
+      {"name": "西工大", "url": "https://yzb.nwpu.edu.cn/"},
+      {"name": "西北农林", "url": "https://yz.nwsuaf.edu.cn/"}
+    ],
+    "甘肃": [
+      {"name": "兰大", "url": "https://yz.lzu.edu.cn/"}
+    ]
+  }
+}

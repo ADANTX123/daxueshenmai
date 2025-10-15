@@ -1,0 +1,41 @@
+body {
+  font-family: "Microsoft YaHei", sans-serif;
+  width: 250px;
+  padding: 10px;
+  background-color: #fafafa;
+}
+h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 10px;
+}
+.btn {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0;
+  border: none;
+  border-radius: 6px;
+  background-color: #0078d7;
+  color: white;
+  cursor: pointer;
+  font-size: 14px;
+}
+.btn:hover {
+  background-color: #005fa3;
+}
+.link {
+  display: block;
+  padding: 6px;
+  text-decoration: none;
+  border-bottom: 1px solid #ddd;
+  color: #0078d7;
+}
+.link:hover {
+  background-color: #f0f0f0;
+}
+.back {
+  color: #0078d7;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
